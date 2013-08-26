@@ -3,7 +3,7 @@ package ru.skupriyanov.sketchws.server;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-public class AbstractEntity {
+public class AbstractService {
 
 	private static final String FILE_LOGGERN_NAME = "logfile";
 	private static final String CONFIG_FILE_NAME = "log4j.properties";

@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-public class PropertiesHandler extends AbstractEntity {
+public class PropertiesHandler extends AbstractService {
 
 	private static final String CONFIG_PATH = "resources/config.properties";
 	private static final Properties properties;
